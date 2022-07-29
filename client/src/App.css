@@ -1,0 +1,70 @@
+
+.bar{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 10px 0px 10px 0px;
+   background-color: rgb(241, 28, 28);
+}
+
+.bar input{
+    width: 40%;
+    margin-right: 30px;
+    /* display: inline-block; */
+    /* margin-right: 40px;
+    margin-left: 500px; */
+    background-color: rgba(250, 248, 248, 0.973);
+    border: 1px solid rgba(252, 39, 39, 0.767);
+
+}
+
+
+
+
+.bar button{
+    width: 10%;
+    background-color: black;
+    border: 1px solid rgba(255, 48, 41, 0.863);
+} 
+
+.background-result {
+    margin-top: 4rem;
+    background-color: white;
+    height: 40rem;
+}
+
+.result{
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.box-result{
+    background-color: white;
+    padding: 0px 0px 0px 0px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-Style{ 
+    border: 2px  rgb(187, 187, 186) solid;
+    font-weight: 400;
+    border-radius: 8px;
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.card-Style p{
+    margin: 5px 0px 5px 20px;
+    font-weight: 400;
+    font-size: 1.1rem;
+    font-style:italic;
+}
+
+
+body{
+    background-color: rgb(226, 224, 224);
+}
